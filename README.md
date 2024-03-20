@@ -23,8 +23,9 @@ Conclusion:
 The project demonstrates the applicability of the Pythagorean Expectation model in cricket analytics, offering a systematic approach to evaluating team performance and predicting match outcomes in the IPL cricket tournament.
 
 
+IPL 2018: Runs, Wickets, and Match Outcomes Analysis
 
-The project focuses on analyzing cricket matches from the Indian Premier League (IPL) 2018 season to understand the relationship between runs scored and match outcomes. It involves data preprocessing, visualization, and analysis using Python and various libraries such as pandas, numpy, and matplotlib.
+Overview:Analyzing cricket matches from the Indian Premier League (IPL) 2018 season to understand the relationship between runs scored and match outcomes. It involves data preprocessing, visualization, and analysis using Python and various libraries such as pandas, numpy, and matplotlib.
 Key Steps:
 1.	Data Loading and Preprocessing:
 •	The project begins by importing necessary libraries such as pandas, numpy, and matplotlib.
@@ -49,7 +50,9 @@ Key Steps:
 Conclusion: The project aims to provide insights into the performance of IPL teams based on runs scored and wickets lost, both at the individual game level and through comparative analysis across multiple games. Through data visualization and analysis, the project seeks to uncover patterns and trends that may influence match outcomes in the IPL 2018 season.
 
 
-Overview: The project aims to analyze the relationship between cricket player performance and salary in the context of the Indian Premier League (IPL) using statistical methods. By examining various performance metrics and their impact on player salaries, we seek to gain insights into the factors influencing player compensation in one of the world's most prestigious cricket leagues.
+Analyzing Cricket Player Performance and Salary in the Indian Premier League (IPL)
+
+Overview: To analyze the relationship between cricket player performance and salary in the context of the Indian Premier League (IPL) using statistical methods. By examining various performance metrics and their impact on player salaries, we seek to gain insights into the factors influencing player compensation in one of the world's most prestigious cricket leagues.
 
 Approach:
 1.	Data Acquisition and Exploration:
