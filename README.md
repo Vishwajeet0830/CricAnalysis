@@ -62,13 +62,9 @@ Approach:
 •	Utilize multiple regression models to examine the relationship between player performance metrics and salary.
 •	Explore different combinations of independent variables, such as runs scored, number of wickets taken, and batting/bowling averages, to assess their impact on player salaries.
 •	Evaluate the regression models using statistical measures such as coefficients, p-values, and R-squared values to understand the predictive power of player performance metrics on salary determination.
-![image](https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/dee2d554-cbff-46bd-8612-8806d1e9ba81)
-
-<img width="516" alt="salary~runs+bowls+not_outs" src="https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/0e0b7683-4d7b-4eb6-9220-1e8a8ae0890d">
 
 <img width="510" alt="salary~batting_avg+batting_strike" src="https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/9fd6315a-ea3a-4d5b-8ad1-57cd64ac335a">
 
-<img width="510" alt="salary~runs_conceded" src="https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/c437f197-c7c7-4cde-a6e2-85ea9bb87667">
 
 <img width="528" alt="salary~bowling_Avg+bowling_strike" src="https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/06ab28f6-867a-495b-880b-6d5e3a45f047">
 
