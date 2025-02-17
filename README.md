@@ -9,7 +9,7 @@ Methodology:
 3.	Pythagorean Expectation Calculation: The Pythagorean Expectation formula is applied to estimate each team's expected winning percentage based on their runs scored and allowed.
    ![Screenshot (149)](https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/49ec972a-94ba-411d-b99f-bbb32dccab2d)
 
-4.	Data Visualization: The relationship between the actual winning percentage and the Pythagorean Expectation is visualized using scatter plots.
+4.	Data Visualization:  The relationship between the actual winning percentage and the Pythagorean Expectation is visualized using scatter plots.
 ![Screenshot (150)](https://github.com/Vishwajeet0830/CricAnalysis/assets/73867969/2d1df9aa-4376-4959-815f-bc0eeb7788c2)
 5..	Statistical Analysis: Regression analysis may be performed to evaluate the effectiveness of the Pythagorean Expectation model in predicting team performance.
    
@@ -77,5 +77,5 @@ Key Findings:
 •	Insights into the relative importance of batting and bowling performance in determining player compensation.
 •	Understanding the nuances of player valuation in professional cricket leagues and potential implications for team management and player recruitment strategies.
 
-Conclusion: The analysis provides valuable insights into the relationship between player performance and salary in the IPL, shedding light on the factors driving player compensation in the cricketing landscape. By leveraging statistical techniques, the project contributes to a deeper understanding of the dynamics governing player valuation and aids decision-making processes for teams and stakeholders in the cricket industry.
+Conclusion:  The analysis provides valuable insights into the relationship between player performance and salary in the IPL, shedding light on the factors driving player compensation in the cricketing landscape. By leveraging statistical techniques, the project contributes to a deeper understanding of the dynamics governing player valuation and aids decision-making processes for teams and stakeholders in the cricket industry.
 
