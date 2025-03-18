@@ -1,4 +1,4 @@
-Pythagorean Expectation Model for IPL 2018
+Pythagorean Expectation Model for IPL 2018:
 
 The project aims to analyze the performance of teams in the Indian Premier League (IPL) cricket tournament for the year 2018 using a statistical model known as the Pythagorean Expectation. The IPL is played in the Twenty20 (T20) format, where each team has a limited number of balls (120) to score as many runs as possible.
 The Pythagorean Expectation model, originally developed for baseball, predicts a team's winning percentage based on the number of runs scored and allowed. In this project, the model is adapted for cricket, considering the runs scored and conceded by each team in the IPL matches.
